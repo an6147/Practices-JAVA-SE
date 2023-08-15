@@ -1,0 +1,15 @@
+ISBN: -281-953-197-5 title: paredesconcampo author: Antoniofuertes price: 54,72$USD
+ISBN: -361-772-224-5 title: perrossingatos author: Gloriafuertes price: 71,11$USD
+ISBN: -041-003-219-1 title: campolagatos author: Antoniofuertes price: 97,37$USD
+ISBN: -034-394-551-2 title: paredesdegatos author: Gloriafuertes price: 25,39$USD
+ISBN: -990-973-091-7 title: sollalapiz author: Antoniomachado price: 85,62$USD
+ISBN: -529-926-613-6 title: perroselsaltamontes author: Antoniomachado price: 34,17$USD
+ISBN: -969-239-807-5 title: paredesconlapiz author: Antoniomachado price: 53,26$USD
+ISBN: -657-235-414-6 title: perrosconlapiz author: Antoniofuertes price: 17,42$USD
+ISBN: -645-884-509-8 title: gatosdegatos author: Gloriafuertes price: 56,62$USD
+ISBN: -015-142-056-7 title: saltamonteslasperros author: Antoniofuertes price: 75,94$USD
+ISBN: -307-903-839-0 title: lagunalossol author: Antoniomachado price: 25,85$USD
+ISBN: -681-226-968-2 title: saltamontesloscampo author: Gloriafuertes price: 00,46$USD
+ISBN: -901-985-394-9 title: campoconcampo author: Gloriamachado price: 36,14$USD
+ISBN: -737-522-942-8 title: perrosellaguna author: Antoniofuertes price: 09,90$USD
+ISBN: -555-350-518-7 title: lagunalasluna author: Gloriafuertes price: 98,27$USD

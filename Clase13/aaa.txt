@@ -1,0 +1,5 @@
+ISBN: -281-953-197-5 title: paredesconcampo author: Antoniofuertes price: 54,72$USD
+ISBN: -041-003-219-1 title: campolagatos author: Antoniofuertes price: 97,37$USD
+ISBN: -657-235-414-6 title: perrosconlapiz author: Antoniofuertes price: 17,42$USD
+ISBN: -015-142-056-7 title: saltamonteslasperros author: Antoniofuertes price: 75,94$USD
+ISBN: -737-522-942-8 title: perrosellaguna author: Antoniofuertes price: 09,90$USD
